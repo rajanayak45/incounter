@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(154, 231, 231);
+    cursor: url(./R.N.png),auto; 
+}
+h1{
+    background-color: rgb(232, 232, 177);
+}
+.Increase{
+    background-color: green;
+}
+.Decrease{
+    background-color: red;
+}
+button{
+    display: flex;
+    height: 50px;
+    font-size: 30px;
+    flex-direction: row;
+    color: white;
+}
